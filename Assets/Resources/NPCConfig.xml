@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NpcFactory>
+<Npc category="ZolrikMercenary">
+  <hp>100</hp> 
+  <attackRange>2</attackRange> 
+  <def>5</def> 
+  <baseDamage>15</baseDamage> 
+  <level>1</level> 
+</Npc>
+<Npc category="SkeletonKing">
+ <hp>120</hp> 
+  <attackRange>2</attackRange> 
+  <def>10</def> 
+  <baseDamage>20</baseDamage> 
+  <level>1</level> 
+</Npc>
+</NpcFactory>
